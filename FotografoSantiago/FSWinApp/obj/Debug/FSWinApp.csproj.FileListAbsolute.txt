@@ -1,0 +1,9 @@
+C:\Users\JuanPablo\Documents\FotografoSantiago\FotografoSantiago\FSWinApp\bin\Debug\FSWinApp.exe.config
+C:\Users\JuanPablo\Documents\FotografoSantiago\FotografoSantiago\FSWinApp\bin\Debug\FSWinApp.exe
+C:\Users\JuanPablo\Documents\FotografoSantiago\FotografoSantiago\FSWinApp\bin\Debug\FSWinApp.pdb
+C:\Users\JuanPablo\Documents\FotografoSantiago\FotografoSantiago\FSWinApp\obj\Debug\FSWinApp.csprojResolveAssemblyReference.cache
+C:\Users\JuanPablo\Documents\FotografoSantiago\FotografoSantiago\FSWinApp\obj\Debug\FSWinApp.MainForm.resources
+C:\Users\JuanPablo\Documents\FotografoSantiago\FotografoSantiago\FSWinApp\obj\Debug\FSWinApp.Properties.Resources.resources
+C:\Users\JuanPablo\Documents\FotografoSantiago\FotografoSantiago\FSWinApp\obj\Debug\FSWinApp.csproj.GenerateResource.Cache
+C:\Users\JuanPablo\Documents\FotografoSantiago\FotografoSantiago\FSWinApp\obj\Debug\FSWinApp.exe
+C:\Users\JuanPablo\Documents\FotografoSantiago\FotografoSantiago\FSWinApp\obj\Debug\FSWinApp.pdb
